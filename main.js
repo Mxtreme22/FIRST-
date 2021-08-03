@@ -1,0 +1,16 @@
+var first_name = "Mannan";
+var last_name = "Mahajan";
+var full_name = first_name.concat(last_name);
+var a = 10;
+var b = 5;
+var add = a + b ;
+var subtract = a - b;
+var multiply = a * b;
+var divide = a/b;
+console.log(full_name);
+console.log(a);
+console.log(b);
+console.log(add);
+console.log(subtract);
+console.log(multiply);
+console.log(divide);
